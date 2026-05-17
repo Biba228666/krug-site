@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>Приглашение — Krug</title>
+
+    <!-- Подключение основного файла стилей для приглашения -->
+    <link rel="stylesheet"
+          href="styles/main.css">
+</head>
+<body>
+
+<!-- Контейнер содержимого страницы приглашения -->
+<div class="container">
+
+    <h1>KRUG</h1>
+
+    <h2>Вы получили приглашение</h2>
+
+    <p>
+        Похоже, приложение не установлено.
+    </p>
+
+    <p>
+        Чтобы вступить в мероприятие,
+        скачайте приложение.
+    </p>
+
+    <a class="button"
+       href="/apk/krug.apk">
+
+        Скачать APK
+
+    </a>
+
+    <p class="hint">
+        После установки снова откройте ссылку приглашения
+    </p>
+
+</div>
+
+<!-- Скрипт сохраняет токен приглашения, если пользователь открыл ссылку через /invite/ -->
+<script src="scripts/invite.js"></script>
+
+</body>
+</html>
