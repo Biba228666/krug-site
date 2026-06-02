@@ -7,7 +7,8 @@
       "namespace": "android_app",
       "package_name": "com.example.krug",
       "sha256_cert_fingerprints": [
-        "E8:15:9B:6F:13:E2:C3:4F:BD:B6:59:86:EE:48:AE:12:C3:32:23:05:B3:6D:CB:71:E0:07:03:68:42:AE:67:B2"
+        "E8:15:9B:6F:13:E2:C3:4F:BD:B6:59:86:EE:48:AE:12:C3:32:23:05:B3:6D:CB:71:E0:07:03:68:42:AE:67:B2",
+        "D8:CB:09:7C:79:16:06:FF:C9:25:A2:D9:DF:F0:07:1F:69:F0:54:2B:A8:1C:9E:06:91:EE:CF:6D:B2:F2:67:36"
       ]
     }
   }
