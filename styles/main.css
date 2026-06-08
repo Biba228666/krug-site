@@ -61,13 +61,10 @@ h1 {
 }
 
 .logo {
-    width: 180px;
+    width: 140px;
     height: auto;
 
-    border-radius: 20px;
+    margin-bottom: 24px;
 
-    margin-bottom: 20px;
-
-    box-shadow:
-        0 0 30px rgba(0,0,0,0.3);
+    object-fit: contain;
 }
